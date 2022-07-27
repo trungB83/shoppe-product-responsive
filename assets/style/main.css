@@ -11,7 +11,7 @@
 .navbar__nav-list {
   list-style: none;
   padding-left: 0;
-  margin: 4px 0 0 0;
+  margin: 4px 16px 0 0;
   display: inline-flex;
 }
 
@@ -1055,7 +1055,7 @@
   border-top-right-radius: 2px;
 }
 
-.home-product-item__name {
+.home-product-item__product-name {
   font-size: 1.4rem;
   font-weight: 400;
   color: var(--text-color);
